@@ -32,6 +32,10 @@ Consider a senario where you are performing different tasks such as <b> displayi
 presentaing date based objects across your project. With function based view, you would end up repeating the code at 
 multiple places. So django introduce the concept of function based generic views where you can implement these generic idioms
 and patterns that can eventually be reused.
+But still there was a limitation that these views cannot be extended to add additional features and impement any object oriented
+concepts to it. but this is a big limitation in using django and hence <b> class based views are introduced </b>.
+
+
 
 
 
