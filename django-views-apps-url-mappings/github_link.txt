@@ -1,0 +1,1 @@
+https://github.com/saravanan75/django_pluralsight
