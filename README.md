@@ -17,4 +17,6 @@
                    -ch your cade will be more clean, readable, reuseable and reduce
                    the boilerplate code. This allows us to add functionality to 
                    multiple classes using a single method.
-          ![This is an image](img/decorator.png)
+         <p>
+         <img src="../img/decorator.png"/>
+         </p>
